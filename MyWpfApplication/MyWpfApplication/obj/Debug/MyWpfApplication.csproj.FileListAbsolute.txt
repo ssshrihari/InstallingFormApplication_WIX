@@ -1,0 +1,14 @@
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\bin\Debug\MyWpfApplication.exe.config
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\bin\Debug\MyWpfApplication.exe
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\bin\Debug\MyWpfApplication.pdb
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\App.g.cs
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication_MarkupCompile.cache
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication_MarkupCompile.lref
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.g.resources
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.Properties.Resources.resources
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.csproj.GenerateResource.cache
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.exe
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplication\obj\Debug\MyWpfApplication.pdb

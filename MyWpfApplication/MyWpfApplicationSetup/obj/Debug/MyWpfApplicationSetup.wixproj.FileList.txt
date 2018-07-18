@@ -1,0 +1,6 @@
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplicationSetup\bin\Debug\MyWpfApplicationSetup.msi
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplicationSetup\bin\Debug\MyWpfApplicationSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\MyWpfApplicationSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\MyWpfApplicationSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\MyWpfApplicationSetup.wixproj.BindBuiltOutputsFileListnull.txt

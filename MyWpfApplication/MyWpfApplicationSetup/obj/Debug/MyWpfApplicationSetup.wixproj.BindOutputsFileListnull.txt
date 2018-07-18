@@ -1,0 +1,2 @@
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplicationSetup\bin\Debug\MyWpfApplicationSetup.msi
+C:\Users\shrihars\Desktop\MyWpfApplication\MyWpfApplicationSetup\bin\Debug\MyWpfApplicationSetup.wixpdb
